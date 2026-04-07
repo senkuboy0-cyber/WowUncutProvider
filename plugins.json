@@ -1,1 +1,14 @@
-[{"name":"WowUncut","pluginType":"PROVIDER","url":"https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/WowUncutProvider.cs3","version":1,"internalName":"WowUncutProvider","authors":["senkuboy0-cyber"],"description":"WowUncut Web Series","repositoryUrl":"https://github.com/senkuboy0-cyber/WowUncutProvider","language":"hi","tvTypes":["TvSeries","Movie","Others"]}]
+[
+  {
+    "url": "https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/WowUncutProvider.cs3",
+    "internalName": "WowUncutProvider",
+    "tvTypes": ["TvSeries", "Movie", "Others"],
+    "language": "hi",
+    "name": "WowUncut",
+    "authors": ["senkuboy0-cyber"],
+    "version": 1,
+    "description": "WowUncut Web Series",
+    "repositoryUrl": "https://github.com/senkuboy0-cyber/WowUncutProvider",
+    "status": 1
+  }
+]
