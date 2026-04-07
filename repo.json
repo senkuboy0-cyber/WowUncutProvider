@@ -1,8 +1,0 @@
-{
-  "name": "WowUncut Provider",
-  "description": "WowUncut - Hindi, Bengali & More Uncut Web Series",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/plugins.json"
-  ]
-}
