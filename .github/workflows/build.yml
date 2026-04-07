@@ -17,12 +17,13 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - name: Grant Gradle permission
-        run: chmod +x gradlew
+      - uses: gradle/gradle-build-action@v2
+        with:
+          gradle-version: 8.7
 
       - name: Build Extensions
-        run: ./gradlew make
-      
+        run: gradle make
+
       - name: Create builds folder if missing
         run: mkdir -p builds
 
