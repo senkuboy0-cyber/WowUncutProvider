@@ -24,15 +24,12 @@ jobs:
       - name: Build Extensions
         run: gradle make
 
-      - name: Show built files
-        run: find . -name "*.cs3" -o -name "plugins.json" 2>/dev/null
-
       - name: Prepare builds folder
         run: |
           mkdir -p builds
           cp repo.json builds/
-          find . -name "*.cs3" -exec cp {} builds/ \;
-          find . -name "plugins.json" ! -path "./builds/*" -exec cp {} builds/ \;
+          cp WowUncutProvider/build/WowUncutProvider.cs3 builds/
+          echo '[{"name":"WowUncut","pluginType":"PROVIDER","url":"https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/WowUncutProvider.cs3","version":1,"internalName":"WowUncutProvider","authors":["senkuboy0-cyber"],"description":"WowUncut Web Series","repositoryUrl":"https://github.com/senkuboy0-cyber/WowUncutProvider","language":"hi","tvTypes":["TvSeries","Movie","Others"]}]' > builds/plugins.json
 
       - name: Deploy to builds branch
         uses: JamesIves/github-pages-deploy-action@v4
