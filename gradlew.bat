@@ -100,13 +100,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/raw/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="raw" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:763775e9-8114-e9e2-cee8-930441913c53">
+  <meta name="fetch-nonce" content="v2:394e67c4-de77-db5e-37ac-7c64f9c86f3f">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="EA3C:655FE:231D5D:2652CC:69D48AEE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="3e339ea496fb2c426c52bec70d9de44b1fb3156ffbd9b5a243887a57085c6fde" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkVBM0M6NjU1RkU6MjMxRDVEOjI2NTJDQzo2OUQ0OEFFRSIsInZpc2l0b3JfaWQiOiIxMTQ4NTU5NDkwMzUxOTI1OTk4IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="dceb56bb7ae17e8b15ca2aac798076be91a59edebd7ca3741b6716a2342cc1c2" data-turbo-transient="true" />
+  <meta name="request-id" content="EA48:28C83E:2249E4:2577FF:69D48AFC" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d81f40aca23fe65f9b94fe8f398a148f3a285d7600bdc870bd5382c05340029b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkVBNDg6MjhDODNFOjIyNDlFNDoyNTc3RkY6NjlENDhBRkMiLCJ2aXNpdG9yX2lkIjoiMzMxMjc2MTI0MjcxNzAzMTE2NCIsInJlZ2lvbl9lZGdlIjoic291dGhlYXN0YXNpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="b776a40c4c87064da692927fa11a752dcf4ba1f38564950987a07053009d40e3" data-turbo-transient="true" />
 
 
 
@@ -114,7 +114,7 @@
   <meta name="github-keyboard-shortcuts" content="copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="/recloudstream/cloudstream-extensions-template/raw/master/gradlew" data-turbo-transient>
+  <meta name="selected-link" value="/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -146,7 +146,7 @@
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat" />
 
       <meta property="og:url" content="https://github.com">
   <meta property="og:site_name" content="GitHub">
@@ -201,7 +201,7 @@
 
 
 
-      <link rel="canonical" href="https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew" data-turbo-transient>
+      <link rel="canonical" href="https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat" data-turbo-transient>
 
 
     <meta name="turbo-body-classes" content="logged-out env-production page-responsive min-height-full d-flex flex-column">
@@ -303,19 +303,19 @@
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew.bat"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="823a57d74821c3fd5fd9c543151b100ee7a3e3bedab83d0d13c9f1f39fd2c9bc"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="20b4ceab4e6c1d3d45331c3a3dce9c61aaf070a0d7fbf771ca93e29d89deefae"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-fb3334e0-8184-48bc-98b7-acaa00b8320f" aria-labelledby="tooltip-2db2e6dd-65e1-442e-9e84-8335e1b8d3cc" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-b5976e44-7704-42b2-b80f-133169a7e1f1" aria-labelledby="tooltip-653f963f-bf24-4e11-802a-961d636354e4" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-2db2e6dd-65e1-442e-9e84-8335e1b8d3cc" for="icon-button-fb3334e0-8184-48bc-98b7-acaa00b8320f" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-653f963f-bf24-4e11-802a-961d636354e4" for="icon-button-b5976e44-7704-42b2-b80f-133169a7e1f1" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.f296da2f85469022.module.css" />
@@ -363,7 +363,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="xiUwY9vjj6tbVhcq8coVrjvmUuBjYDqSlBWfAIIOBdJ5wdpr5TVz2eSL_1U8E4Txz-yz1YzWSY-OEe-8ff6VLw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Wip9_mioI0MP23hKW653tgV3b4PCFRQqh9mHH8Ougr6KurYKA6azq5bPLUTlxh6SWO18gUAPUSnRE9WexUfc_w" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center tmp-mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -427,7 +427,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-cfdc45bf-2109-41ad-8a8b-552df629f666" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-5ed7fc6b-95e0-49bf-9f23-6a55d5cd8eba" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -668,7 +668,7 @@
             ></ul>
 
         </div>
-      <div class="FormControl-inlineValidation" id="validation-cfdc45bf-2109-41ad-8a8b-552df629f666" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-5ed7fc6b-95e0-49bf-9f23-6a55d5cd8eba" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -709,7 +709,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YXfCVBBuGeF51NrwCo-3MkMWi3e_h4fP_xOJ_uLG-JC9xFi-L4ZkQZwJ_e_fhzcPUVtAyy7SuIduDCq4UZMqyA" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8es9_69zBDq270WeT5wapUpYZgqXXFpwlvor3PS5SPP8LGLCMQdxqz3dmNKxIhVyTwSleXiH7griQEQFkA-Cgg" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -747,7 +747,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n7YIBm-6DlqsJOcoXvO4ogK2fau3sYJRDznxV5CYRz1tp0SHIclsPaiGdvp6PbD_j_bAmqgabKuVb452KHyAhQ" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QU4s6BEc1iUC11N1Bcx8jKejM_oUZl9iubJtqq6ux8yzIoj5WE34espfpFQa8BHGnkN4KX7F_i7z1_DUyuxmkw" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -765,7 +765,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="Yc8BfpjAWrYAXzkwQcPwTMvt36A7dGuWFSecR-_dDzzuXdz-5ODWWQlRTiw9sXsrOI8XmX5NanJneyYTY3y1Og" data-csrf="true" />
+              <input type="hidden" value="48YxawezuKLtKzpU7j05onVXG0PZtV7QINPcUHl__B-8eWOclDRQmODU5BFHd7NDrDZcPOA_1UwGq1FkUfnBXA" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -807,10 +807,10 @@
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew.bat"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="823a57d74821c3fd5fd9c543151b100ee7a3e3bedab83d0d13c9f1f39fd2c9bc"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="20b4ceab4e6c1d3d45331c3a3dce9c61aaf070a0d7fbf771ca93e29d89deefae"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
@@ -820,7 +820,7 @@
     <h4 data-view-component="true" class="color-fg-default mb-2 tmp-mb-2">                    Sign in to GitHub
 </h4>
                         
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dT6dWGOcQNWvDePV8p1hn1_rjtl5Tg-Ub58m5y3l19yTOc7tyxB41gDRBx7jerSm3I1-qeJ6kbzoDt21TlxD-g" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="W_6FMOC5rDlpwAwngWk7DG-ClwL0dH6BYXr47If7a68DGFSwbd3SI4u9faVHEfe1nAYx5Z5dWQxKWBmOnKGTwA" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
 
     <label for="login_field">
       Username or email address
@@ -838,17 +838,17 @@
 <input type="hidden" class="js-support" name="javascript-support" value="unknown">
 <input type="hidden" class="js-webauthn-support" name="webauthn-support" value="unknown">
 <input type="hidden" class="js-webauthn-iuvpaa-support" name="webauthn-iuvpaa-support" value="unknown">
-<input type="hidden" name="return_to" id="return_to" value="https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew" autocomplete="off" class="form-control" />
+<input type="hidden" name="return_to" id="return_to" value="https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat" autocomplete="off" class="form-control" />
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input type="text" name="required_field_9be6" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1775536878864" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="cb75711b088acf010f890e8a62be0011f16b6402303d0adee5b907ab508b92b0" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_7f0e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1775536892302" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="c693affc7ef340599d5d0cf08d8fd7f76bb8dcdd1fca4dde8de2679337b83a5f" autocomplete="off" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
   </div>
 </form>  <webauthn-status class="js-webauthn-login-emu-control">
         <div data-target="webauthn-status.partial" class="d-flex flex-justify-between flex-column tmp-mt-3 mb-0" hidden>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew.bat" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
     <span class="Button-label">or continue with other methods</span>
   </span>
 </a>
@@ -858,20 +858,20 @@
 
 </div></div>            </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew&amp;source=header"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Frecloudstream%2Fcloudstream-extensions-template%2Fraw%2Fmaster%2Fgradlew.bat&amp;source=header"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="823a57d74821c3fd5fd9c543151b100ee7a3e3bedab83d0d13c9f1f39fd2c9bc"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/recloudstream/cloudstream-extensions-template/raw/master/gradlew;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="20b4ceab4e6c1d3d45331c3a3dce9c61aaf070a0d7fbf771ca93e29d89deefae"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/recloudstream/cloudstream-extensions-template/raw/master/gradlew.bat;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-fce10909-52a7-49c4-a698-cbad72ab5b41" aria-labelledby="tooltip-074edaa0-a06d-41f0-86e7-7c74260933a5" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-8880fbe8-38ee-4f73-a9ec-94eff6e5ea71" aria-labelledby="tooltip-ca999b78-6f7d-41a3-9c47-8c7454ce9246" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-074edaa0-a06d-41f0-86e7-7c74260933a5" for="icon-button-fce10909-52a7-49c4-a698-cbad72ab5b41" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-ca999b78-6f7d-41a3-9c47-8c7454ce9246" for="icon-button-8880fbe8-38ee-4f73-a9ec-94eff6e5ea71" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.f296da2f85469022.module.css" />
@@ -909,10 +909,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-4e1f8652-876c-4a0c-aea4-297953c80ba7" aria-labelledby="tooltip-24bbbb77-1cc3-4cd9-81bc-24f8b5f3d2e2" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-a8ad4e79-072e-4a52-99cc-14ebe4075cd2" aria-labelledby="tooltip-a4f68bea-bc8d-4a29-af5e-347f87c71d53" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-24bbbb77-1cc3-4cd9-81bc-24f8b5f3d2e2" for="icon-button-4e1f8652-876c-4a0c-aea4-297953c80ba7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-a4f68bea-bc8d-4a29-af5e-347f87c71d53" for="icon-button-a8ad4e79-072e-4a52-99cc-14ebe4075cd2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   

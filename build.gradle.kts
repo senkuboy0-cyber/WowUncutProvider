@@ -1,4 +1,3 @@
-// Top-level build file
 buildscript {
     repositories {
         google()
@@ -18,6 +17,10 @@ allprojects {
         mavenCentral()
         maven("https://jitpack.io")
     }
+}
+
+tasks.register("make") {
+    dependsOn(subprojects.map { "${it.path}:make" })
 }
 
 tasks.register("clean", Delete::class) {
