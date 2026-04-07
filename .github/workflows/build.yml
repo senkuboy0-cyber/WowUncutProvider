@@ -24,8 +24,10 @@ jobs:
       - name: Build Extensions
         run: gradle make
 
-      - name: Create builds folder if missing
-        run: mkdir -p builds
+      - name: Copy repo.json to builds
+        run: |
+          mkdir -p builds
+          cp repo.json builds/repo.json
 
       - name: Deploy to builds branch
         uses: JamesIves/github-pages-deploy-action@v4
