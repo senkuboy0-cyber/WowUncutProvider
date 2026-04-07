@@ -24,10 +24,15 @@ jobs:
       - name: Build Extensions
         run: gradle make
 
-      - name: Copy repo.json to builds
+      - name: Show built files
+        run: find . -name "*.cs3" -o -name "plugins.json" 2>/dev/null
+
+      - name: Prepare builds folder
         run: |
           mkdir -p builds
-          cp repo.json builds/repo.json
+          cp repo.json builds/
+          find . -name "*.cs3" -exec cp {} builds/ \;
+          find . -name "plugins.json" ! -path "./builds/*" -exec cp {} builds/ \;
 
       - name: Deploy to builds branch
         uses: JamesIves/github-pages-deploy-action@v4
