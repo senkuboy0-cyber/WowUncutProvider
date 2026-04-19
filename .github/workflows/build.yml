@@ -29,6 +29,8 @@ jobs:
           mkdir -p builds
           cp repo.json builds/
           cp WowUncutProvider/build/WowUncutProvider.cs3 builds/
+          cp NotunMovieProvider/build/NotunMovieProvider.cs3 builds/
+          cp OGPorn/build/OGPorn.cs3 builds/
           cat > builds/plugins.json << 'JSON'
           [
             {
@@ -40,6 +42,30 @@ jobs:
               "authors": ["senkuboy0-cyber"],
               "version": 1,
               "description": "WowUncut Web Series",
+              "repositoryUrl": "https://github.com/senkuboy0-cyber/WowUncutProvider",
+              "status": 1
+            },
+            {
+              "url": "https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/NotunMovieProvider.cs3",
+              "internalName": "NotunMovieProvider",
+              "tvTypes": ["TvSeries", "Movie", "Others"],
+              "language": "bn",
+              "name": "NotunMovie",
+              "authors": ["senkuboy0-cyber"],
+              "version": 1,
+              "description": "NotunMovie Bengali Movies",
+              "repositoryUrl": "https://github.com/senkuboy0-cyber/WowUncutProvider",
+              "status": 1
+            },
+            {
+              "url": "https://raw.githubusercontent.com/senkuboy0-cyber/WowUncutProvider/builds/OGPorn.cs3",
+              "internalName": "OGPornProvider",
+              "tvTypes": ["Movie", "Others"],
+              "language": "en",
+              "name": "OGPorn",
+              "authors": ["senkuboy0-cyber"],
+              "version": 1,
+              "description": "OGPorn - Free Premium Porn Videos",
               "repositoryUrl": "https://github.com/senkuboy0-cyber/WowUncutProvider",
               "status": 1
             }
